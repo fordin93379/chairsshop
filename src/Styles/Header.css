@@ -1,0 +1,45 @@
+.logo {
+  width: 170px;
+  height: 170px;
+  float: left;
+}
+
+.title {
+  float: left;
+  height: 170px;
+  width: 400px;
+  margin-top: 0px;
+  font-size: 70px;
+  margin-left: 70px;
+  font-family: 'Courier New', monospace;
+}
+
+.header {
+  background-color: white;
+  width: 100vw;
+  position: fixed;
+  height: 220px;
+  border-bottom: 3px solid lightgrey;
+  margin-top: -220px;
+}
+
+.but {
+  border: 5px solid lightgrey;
+  border-radius: 13px;
+  margin: 10px;
+  font-family: 'Courier New', monospace;
+  font-size: 30px;
+  height: 85px;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+
+.but:hover {
+  color: blue;
+  background-color: lightgrey;
+}
+
+.shopButton {
+  width: 470px;
+}
+/*# sourceMappingURL=Header.css.map */

@@ -1,0 +1,39 @@
+.store {
+  margin-top: 220px;
+}
+
+.cardBody {
+  border: 1px solid lightgrey;
+  border-radius: 50px;
+  display: inline-block;
+  margin: 30px;
+  width: 220px;
+  height: 400px;
+}
+
+.cardImg {
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  width: 220px;
+  height: 220px;
+}
+
+.buyButton {
+  width: 220px;
+  height: 70px;
+  font-size: 50px;
+  background-color: #74cc74;
+  border: none;
+  border-radius: 23px;
+  color: white;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+}
+
+.cardName {
+  font-family: 'Courier New', monospace;
+  text-align: center;
+  width: 220px;
+  height: 65px;
+}
+/*# sourceMappingURL=Store.css.map */

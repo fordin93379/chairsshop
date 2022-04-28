@@ -1,0 +1,36 @@
+$width : 220px;
+.store{
+    margin-top: 220px;
+}
+.cardBody {
+    border: 1px solid lightgrey;
+    border-radius: 50px;
+    display: inline-block;
+    margin: 30px;
+    width: $width;
+    height: 400px;
+}
+.cardImg{
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    width: $width;
+    height: 220px;
+}
+.buyButton{
+    width: $width;
+    height: 70px;
+    font-size: 50px;
+    background-color: rgb(116, 204, 116);
+    border: none;
+    border-radius: 23px;
+    color: white;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    
+}
+.cardName{
+    font-family: 'Courier New', monospace;
+    text-align: center;
+    width: $width;
+    height: 65px;
+}
